@@ -1,0 +1,4 @@
+jtype: BEiTImageEncoder
+metas:
+  py_modules:
+    - executor.py

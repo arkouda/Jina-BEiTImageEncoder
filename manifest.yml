@@ -1,0 +1,5 @@
+manifest_version: 1
+name: BEiTImageEncoder
+description: BEiTImageEncoder embeds images into 768-dim vectors using Bert Pre-trained ViT by Microsoft
+url: https://github.com/arkouda/Jina-BEiTImageEncoder
+keywords: ["BERT", "Transformer", "Encoder", "Embedding", "HuggingFace", "PyTorch"]
