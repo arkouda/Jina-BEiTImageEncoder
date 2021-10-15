@@ -1,2 +1,2 @@
 transformers==4.11.3
-torch==1.9.1+cpu
+torch==1.9.1
